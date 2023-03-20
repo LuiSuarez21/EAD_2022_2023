@@ -1,0 +1,3 @@
+3;trotinete;Porto;true;21;21;21;
+2;bicicleta;Braga;true;21;23;21;
+1;trotinete;Porto;true;21;21;21;

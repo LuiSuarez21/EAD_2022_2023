@@ -1,0 +1,9 @@
+
+-------------------------------
+Transport ID: 2
+Transport type: bicicleta
+Battery level: 21
+Price: 21
+Autonomy: 23
+Available: 12850428
+Location: Braga
